@@ -3,7 +3,8 @@
 ## Introduction
 
 - This is a simple uml editor, users can use the shapes and lines to create their own uml structure.
-- This small project is used as an practice for object oriented design.
+- The GUI tool is Java Swing.
+- This small project is used as an practice for object oriented design and some disign patterns.
 
 ## Environment
 
